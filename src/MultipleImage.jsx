@@ -154,7 +154,7 @@ const MultipleImage = () => {
           type="button"
           style={{
             backgroundColor: " #0C0F86",
-            width: "300px",
+            width: "330px",
             color: "#ffffff",
             height: "40px",
           }}
