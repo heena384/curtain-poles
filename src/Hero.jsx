@@ -33,7 +33,7 @@ const Hero = () => {
             zIndex: -1,
           }}
         ></div>
-        <div className="overlap dnone" style={{ marginLeft: "-800px" }}>
+        <div className="overlap dnone" style={{ marginLeft: "-700px" }}>
           <img
             src={heroimg}
             className="im"
